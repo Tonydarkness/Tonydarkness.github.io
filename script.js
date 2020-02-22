@@ -105,29 +105,9 @@ artist: "kudasai",
 		url: "Musics/A. Lofi/kudasai/kudasai - when i see you.mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },{
-artist: "WEAN",
-		name: "Ai biết",
-		url: "Musics/1. Rap/259. WEAN - AI BIET (OFFICIAL MUSIC VIDEO).mp3",
-picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-},{
-artist: "Phúc Du",
-		name: "Anh không thề gì đâu anh làm",
-		url: "Musics/Anh không thề gì đâu anh làm.mp3",
-picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-},{
-artist: "TeA ft. PC",
-		name: "Thôi trễ rồi, chắc anh phải về đây (Prod. TaKu)",
-		url: "Musics/1. Rap/Thôi Trễ Rồi, Chắc Anh Phải Về Đây - TeA ft. PC (Prod. TaKu) [Official Video].mp3",
-picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-},{
-artist: "prettyxix, hairan (prod.Taku/9)",
-		name: "Stay (prod.Taku/9)",
-		url: "Musics/1. Rap/198. STAY (W_ PRETTYXIX, HAIRAN) (PROD.TAKU_9).mp3",
-picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-},{
-artist: "Neddee x Sou ( Prod. iam B )",
-		name: "Người ta nói - RnB version",
-		url: "Musics/A. Lofi/Various Artist/204. NGUOI TA NOI.mp3",
+artist: "LØFTT // 流体 (feat. shiloh)",
+		name: "Rest My Bones",
+		url: "Musics/A. Lofi/shiloh/Rest My Bones (feat. shiloh).mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },
 {
@@ -361,9 +341,29 @@ artist: "Shiloh",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },
 {
-artist: "LØFTT // 流体 (feat. shiloh)",
-		name: "Rest My Bones",
-		url: "Musics/A. Lofi/shiloh/Rest My Bones (feat. shiloh).mp3",
+artist: "WEAN",
+		name: "Ai biết",
+		url: "Musics/1. Rap/259. WEAN - AI BIET (OFFICIAL MUSIC VIDEO).mp3",
+picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+},{
+artist: "Phúc Du",
+		name: "Anh không thề gì đâu anh làm",
+		url: "Musics/1. Rap/A.mp3",
+picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+},{
+artist: "TeA ft. PC",
+		name: "Thôi trễ rồi, chắc anh phải về đây (Prod. TaKu)",
+		url: "Musics/1. Rap/Thôi Trễ Rồi, Chắc Anh Phải Về Đây - TeA ft. PC (Prod. TaKu) [Official Video].mp3",
+picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+},{
+artist: "prettyxix, hairan (prod.Taku/9)",
+		name: "Stay (prod.Taku/9)",
+		url: "Musics/1. Rap/198. STAY (W_ PRETTYXIX, HAIRAN) (PROD.TAKU_9).mp3",
+picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+},{
+artist: "Neddee x Sou ( Prod. iam B )",
+		name: "Người ta nói - RnB version",
+		url: "Musics/A. Lofi/Various Artist/204. NGUOI TA NOI.mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },
 {
