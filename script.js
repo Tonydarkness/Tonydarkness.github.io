@@ -127,7 +127,7 @@ picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e4224
 	{
 artist: "Burbank",
 		name: "Seeing your name makes me happy",
-		url: "Musics/A. Lofi/Burbank/15. BURBANK - SEEING YOUR NAME MAKES ME HAPPY.MP3 ",
+		url: "Musics/A. Lofi/Burbank/Burbank - Seeing your name makes me happy.mp3 ",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },
 {
