@@ -173,7 +173,7 @@ picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e4224
 {
 artist: "In love with a ghost",
 		name: "We've never met but, can we have a coffee pr spmething?",
-		url: "Musics/A. Lofi/In love with a ghost/22. WE'VE NEVER MET BUT, CAN WE HAVE A COFFEE OR SOMETHING.MP3",
+		url: "Musics/A. Lofi/In love with a ghost/We've never met, but can have a coffee or something.mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },
 {
@@ -452,13 +452,13 @@ artist: "Noble",
 		url: "Musics/A. Lofi/Various Artist/61. Ｉ ＫＮＯＷ ＹＯＵ＇ＲＥ ＳＯＭＥＷＨＥＲＥ.mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },{
-artist: "frad",
-		name: "She's as beautiful as the flower in their garden",
+artist: "fujishen",
+		name: "The girl I have a crush on",
 		url: "Musics/A. Lofi/Various Artist/68. THE GIRL I HAVE A CRUSH ON (OUT ON SPOTIFY).mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },{
-artist: "fujishen",
-		name: "The girl I have a crush on",
+artist: "frad",
+		name: "She's as beautiful as the flower in their garden",
 		url: "Musics/A. Lofi/Various Artist/69. SHE'S AS BEAUTIFUL AS THE FLOWER IN THEIR GARDEN.mp3",
 picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 },{
