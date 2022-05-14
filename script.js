@@ -66,7 +66,7 @@ song[01]= {
 	song[07]={
 		artist: "Louise Penman",
 		name: "Baptism of Fire",
-		url: "Musics/02/Cytus ll PaffCliqTrack remixLouise PenmanBaptism of fire戰火的洗禮   中英字幕.mp3",
+		url: "Musics/02/Louise PenmanBaptism of fire.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 	};
 	song[08]={
@@ -76,8 +76,8 @@ song[01]= {
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 		};
 		var songs = 
-		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08]
-,{
+		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08], 
+{
 artist: "whisky",
 		name: "Winter wind, I hug u",
 		url: "Musics/A. Lofi/whisky/301. winter wind i hug u - whisky.mp3",
