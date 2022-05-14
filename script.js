@@ -30,13 +30,13 @@ $(function()
 song[01]= {
 	artist: "Bao",
 			name: "52 Hearts",
-			url: "Musics/Bao-52-Hearts-_Original-Song_.mp3 ",
+			url: "Musics/02/Bao-52-Hearts-_Original-Song_.mp3 ",
 	picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 	};
 	song[02]={
 		artist: "Sơn Tùng MT-P",
 				name: "THERE'S NO ONE AT ALL",
-				url: "Musics/THERE'S NO ONE AT ALL.mp3 ",
+				url: "Musics/02/THERE'S NO ONE AT ALL.mp3 ",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 		};
 	song[03]={
@@ -56,15 +56,28 @@ song[01]= {
 		name: "Anh không muốn quên em",
 		url: "Musics/A. Lofi/1nG/Anh khong muon quen em.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-	};	
+	};
+	song[06]={
+		artist: "Kat Penkin",
+		name: "Fight Another Day",
+		url: "Musics/02/KAT PENKIN - FIGHT ANOTHER DAY (lyrics).mp3",
+		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+	};
+	song[07]={
+		artist: "Louise Penman",
+		name: "Baptism of Fire",
+		url: "Musics/02/Cytus ll PaffCliqTrack remixLouise PenmanBaptism of fire戰火的洗禮   中英字幕.mp3",
+		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+	};
+	song[08]={
+		artist: "whisky",
+				name: "Can you give me a change?",
+				url: "Musics/A. Lofi/whisky/274. can you give me a change - whisky.mp3",
+		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+		};
 		var songs = 
-		[song[01], song[02], song[03],song[04], song[05],
+		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08]
 ,{
-artist: "whisky",
-		name: "Can you give me a change?",
-		url: "Musics/A. Lofi/whisky/274. can you give me a change - whisky.mp3",
-picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-},{
 artist: "whisky",
 		name: "Winter wind, I hug u",
 		url: "Musics/A. Lofi/whisky/301. winter wind i hug u - whisky.mp3",
