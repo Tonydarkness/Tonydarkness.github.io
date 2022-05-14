@@ -51,14 +51,15 @@ song[01]= {
 				url: "Musics/A. Lofi/yunghuy/9. MUSIQUE 01 - YUNGHUY.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 		};
-		var songs = 
-		[song[01], song[02], song[03],song[04],
-{
+	song[05]={
 		artist: "1 n G",
 		name: "Anh không muốn quên em",
-		url: "Musics/A. Lofi/1nG/Anh không muốn quên em.mp3",
+		url: "Musics/A. Lofi/1nG/Anh khong muon quen em.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-	},{
+	};	
+		var songs = 
+		[song[01], song[02], song[03],song[04], song[05],
+,{
 artist: "whisky",
 		name: "Can you give me a change?",
 		url: "Musics/A. Lofi/whisky/274. can you give me a change - whisky.mp3",
