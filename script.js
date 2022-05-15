@@ -850,7 +850,7 @@ picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e4224
 
             if(flag != 0)
             {
-                audio.play();
+                audio.load();
                 playerTrack.addClass('active');
                 albumArt.addClass('active');
             
