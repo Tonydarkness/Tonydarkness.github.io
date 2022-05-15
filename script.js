@@ -75,8 +75,14 @@ song[01]= {
 				url: "Musics/A. Lofi/whisky/274. can you give me a change - whisky.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 		};
+	song[09]={
+		artist: "Madihu",
+				name: "Có em (ft. Low G)",
+				url: "Musics/02/Madihu - Co em (Feat. Low G) [Official MV].mp3",
+		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
+		};
 		var songs = 
-		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08], 
+		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08], song[09],
 {
 artist: "whisky",
 		name: "Winter wind, I hug u",
