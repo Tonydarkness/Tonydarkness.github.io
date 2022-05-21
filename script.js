@@ -623,8 +623,8 @@ picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e4224
                 albumArt.addClass('active');
                 checkBuffering();
                 i.attr('class','fas fa-pause');
-                audio.play();
-            }
+                audio.load();
+				audio.play();}
             else
             {
                 playerTrack.removeClass('active');
@@ -851,6 +851,7 @@ picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e4224
             if(flag != 0)
             {
                 audio.load();
+				audio.play();
                 playerTrack.addClass('active');
                 albumArt.addClass('active');
             
