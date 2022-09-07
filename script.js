@@ -27,18 +27,7 @@ $(function()
 	var playPreviousTrackButton = $('#play-previous'), playNextTrackButton = $('#play-next'), currIndex = -1;
 	
 	const song = [];
-song[01]= {
-	artist: "Bao",
-			name: "52 Hearts",
-			url: "Musics/02/Bao-52-Hearts-_Original-Song_.mp3 ",
-	picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-	};
-	song[02]={
-		artist: "Sơn Tùng MT-P",
-				name: "THERE'S NO ONE AT ALL",
-				url: "Musics/02/THERE'S NO ONE AT ALL.mp3 ",
-		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-		};
+
 	song[03]={
 		artist: "02",
 				name: "Fly me to the moon",
@@ -57,32 +46,14 @@ song[01]= {
 		url: "Musics/A. Lofi/1nG/Anh khong muon quen em.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 	};
-	song[06]={
-		artist: "Kat Penkin",
-		name: "Fight Another Day",
-		url: "Musics/02/KAT PENKIN - FIGHT ANOTHER DAY (lyrics).mp3",
-		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-	};
-	song[07]={
-		artist: "Louise Penman",
-		name: "Baptism of Fire",
-		url: "Musics/02/Louise PenmanBaptism of fire.mp3",
-		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-	};
 	song[08]={
 		artist: "whisky",
 				name: "Can you give me a change?",
 				url: "Musics/A. Lofi/whisky/274. can you give me a change - whisky.mp3",
 		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
 		};
-	song[09]={
-		artist: "Madihu",
-				name: "Có em (ft. Low G)",
-				url: "Musics/02/Madihu - Co em (Feat. Low G) [Official MV].mp3",
-		picture: "https://i.pinimg.com/originals/8e/fb/ae/8efbae871f6792ba76d7ae3b6e422408.jpg"
-		};
 		var songs = 
-		[song[01], song[02], song[03],song[04],song[05],song[06],song[07],song[08], song[09],
+		[song[03],song[04],song[05],song[08],
 {
 artist: "whisky",
 		name: "Winter wind, I hug u",
